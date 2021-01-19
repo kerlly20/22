@@ -60,8 +60,7 @@
 
 <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
 <df-messenger
-  intent="WELCOME"
-  chat-title="metodologia"
-  agent-id="31073511-6d4f-4a33-b2bc-a5c8be2924aa"
+  chat-title="Covid"
+  agent-id="5d308ecd-5e8b-4979-9538-5eaafde7ddba"
   language-code="en"
 ></df-messenger>
